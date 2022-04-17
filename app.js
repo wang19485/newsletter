@@ -32,10 +32,6 @@ app.post("/", function(req, res) {
     email: email
   };
 
-  // async function run() {
-  //   const response = await mailchimp.ping.get();
-  //   console.log(response);
-  // }
 
   // const jsonData = JSON.stringify(data);
   // https.request(url, options, function(response))
