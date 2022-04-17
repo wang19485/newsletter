@@ -82,7 +82,7 @@ app.post("/failure",function(req, res){
 });
 
 app.listen(process.env.PORT || 3000, () => {
-  console.log(`App listening on port ${port}`)
+  console.log(`App listening on port`)
 });
 
 //API df7f4cd96e028392a6865a13f867113d-us14
